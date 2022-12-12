@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/N4NiNi/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4NiNi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=N4NiNi&theme=dracula&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4NiNi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
